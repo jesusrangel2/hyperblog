@@ -1,7 +1,7 @@
 body{
-    color: deeppink;
+    color: black;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
@@ -30,4 +30,5 @@ body{
 .cabecera #tagline{
     padding-left: 10px;
     font-size: 16px;
+    font-weight: 100;
 }
