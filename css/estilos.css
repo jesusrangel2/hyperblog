@@ -38,3 +38,10 @@ body {
 .cabecera #logo{
   width: 30px;
 }
+.container #footer{
+  padding: 10px;
+  text-align: center;
+  background-color: lightgreen;
+  color: black;
+  font-weight: bold;
+}
